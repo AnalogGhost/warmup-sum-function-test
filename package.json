@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ghost-/warmup-sum-function-test#readme",
   "dependencies": {
-    "chai": "^4.0.2",
-    "mocha": "^3.4.2"
+    "chai": "^4.5.0",
+    "mocha": "^12.0.2"
   }
 }
